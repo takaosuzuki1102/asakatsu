@@ -1,7 +1,5 @@
 public class Test{
-	TestTestTest
-
-	Takao
+	test2
 
 	Takao
 }
